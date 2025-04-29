@@ -1,0 +1,5 @@
+Dehradun 5.78 308.20
+Delhi 190 1484
+Mumbai 201 603.4
+Chennai 71.5 426
+Bangalore 84 709
